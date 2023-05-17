@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/349419/javascript.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://https://www.svgrepo.com/show/452234/java.svg">
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/353625/cucumber.svg">
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
 </div>
  
