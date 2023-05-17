@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png">
@@ -26,6 +24,4 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ##
  
