@@ -23,5 +23,6 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/353625/cucumber.svg">
   <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
+  <img align="center" height="30" width="40" src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
  
