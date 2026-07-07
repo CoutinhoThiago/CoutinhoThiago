@@ -1,7 +1,6 @@
 # Thiago Coutinho
 
-### QA Engineer | Especialista em Automação e Integrações de APIs
-
+### Backend developer | QA Engineer 
 Analista de Qualidade de Software com forte atuação em testes de integrações, APIs e sistemas ERP/PDV. Possuo experiência sólida em fluxos financeiros (conciliação bancária, CNAB) e automação de testes com Cypress e Postman. Atualmente, sou responsável pela garantia de qualidade em integrações complexas com plataformas como VTEX, Citel, Belvo e TOTVS Moda.
 
 ---
