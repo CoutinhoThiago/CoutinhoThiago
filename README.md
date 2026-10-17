@@ -5,8 +5,8 @@
 <h2>Hi, I'm Thiago Coutinho!</h2>
 
 <p>
-  <strong>• QA Engineering:</strong> Working at VarejoOnline by TOTVS.<br>
-  <strong>• Computer Science:</strong> Graduate at Universidade Federal da Bahia (UFBA).
+  <strong>• QA Engineering</strong> at VarejoOnline by TOTVS.<br>
+  <strong>• Computer Science</strong> at Universidade Federal da Bahia (UFBA).
 </p>
 
 ---
@@ -21,11 +21,11 @@ const coutinho = {
   children: "0",
   advancedCode: [
     "Java",
-    "JavaScript",
-    "Dart"
+    "JavaScript"
   ],
   intermediaryCode: [
     "Python",
+    "Dart",
     "C++"
   ],
   basicCode: [
@@ -62,8 +62,8 @@ const coutinho = {
       "Playwright"
     ],
     databases: [
-      "PostgreSQL",
       "MySQL",
+      "PostgreSQL",
       "Oracle DB"
     ],
     tools: [
