@@ -5,7 +5,7 @@
 <h2>Hi, I'm Thiago Coutinho!</h2>
 
 <p>
-  <strong>• QA Engineering:</strong> Working at VarejoOnline (acquired by TOTVS).<br>
+  <strong>• QA Engineering:</strong> Working at VarejoOnline by TOTVS.<br>
   <strong>• Computer Science:</strong> Graduate at Universidade Federal da Bahia (UFBA).
 </p>
 
@@ -130,7 +130,6 @@ const coutinho = {
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="Tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
-  <img align="center" alt="Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
 </div>
